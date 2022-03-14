@@ -1,5 +1,10 @@
 <!-- ### Hi there 👋 I' Chamodi Samarasinghe! -->
 
+![stock-vector-programming--5f353c35e4f11](https://user-images.githubusercontent.com/87232869/158115678-ab8cc071-6f83-4a45-bde4-844c411656ab.jpg)
+
+
+
+
 <h1 align="center">Hi there 👋 I'm Chamodi Samarasinghe!</h1>
 <h3 align="center">I’m currently studying at Institute of Jave and Software Engineering(IJSE)...</h3>
 
