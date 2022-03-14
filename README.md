@@ -1,12 +1,11 @@
 <!-- ### Hi there 👋 I' Chamodi Samarasinghe! -->
-
-![stock-vector-programming--5f353c35e4f11](https://user-images.githubusercontent.com/87232869/158115678-ab8cc071-6f83-4a45-bde4-844c411656ab.jpg)
-
-
+![female-programmer-working-web-development-using-laptop-concept-software-developers-script-coding-programming-flat-205061277](https://user-images.githubusercontent.com/87232869/158116594-bb6ce5d7-14dd-4c2c-883d-d04351fed9df.jpg)
 
 
 <h1 align="center">Hi there 👋 I'm Chamodi Samarasinghe!</h1>
 <h3 align="center">I’m currently studying at Institute of Jave and Software Engineering(IJSE)...</h3>
+
+
 
 <!--
 **chamodisamarasinghe/chamodisamarasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
