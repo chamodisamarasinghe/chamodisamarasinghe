@@ -20,6 +20,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamodisamarasinghe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chamodisamarasinghe" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamodisamarasinghe&show_icons=true&locale=en&theme=tokyonight" alt="chamodisamarasinghe" /></p>
+
 <!--
 **chamodisamarasinghe/chamodisamarasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
