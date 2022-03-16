@@ -1,9 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Chamodi Samarasinghe!</h1>
 
 
 
 <h1 align="center"><img  src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Welcome+to+my+GitHub+Profile."></h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodisamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chamodisamarasinghe" /> </p>
 
 
 🌱 I’m currently studying at Institute of Jave and Software Engineering(IJSE)...
