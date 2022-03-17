@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodisamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chamodisamarasinghe" /> </p>
 
 
-🌱 I’m currently studying at Institute of Jave and Software Engineering(IJSE)...
+🌱 I’m currently studying at Institute of Jave and Software Engineering(IJSE)
 
 📫 How to reach me: chamodisandunika98@gmail.com
 
