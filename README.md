@@ -1,6 +1,5 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_500px.gif) -->
 ![MasterHead](https://thumbs.dreamstime.com/b/vector-line-concept-computer-science-vector-line-concept-computer-science-web-linear-banner-programming-108217247.jpg)
-
 <h1 align="center">Hi 👋, I'm Chamodi Samarasinghe!</h1>
 
 
