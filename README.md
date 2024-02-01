@@ -8,11 +8,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodisamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chamodisamarasinghe" /> </p>
 
-
-🌱 Education - 
-    Software Engineering - BEng (Hons) in London Metropolitan University
+ 
+    🌱Software Engineering - BEng (Hons) in London Metropolitan University
     
-    Graduate Diploma in Software Engineering (IJSE)
+    🌱Graduate Diploma in Software Engineering (IJSE)
 
 📫 How to reach me: chamodisandunika98@gmail.com
 
