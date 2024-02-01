@@ -11,6 +11,7 @@
 
 🌱 Education - 
     Software Engineering - BEng (Hons) in London Metropolitan University
+    
     Graduate Diploma in Software Engineering (IJSE)
 
 📫 How to reach me: chamodisandunika98@gmail.com
